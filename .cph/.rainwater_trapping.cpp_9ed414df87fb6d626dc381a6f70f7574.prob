@@ -1,0 +1,1 @@
+{"name":"Local: rainwater_trapping","url":"d:\\stack\\rainwater_trapping.cpp","tests":[{"id":1656693562854,"input":"6\n3 0 0 1 0 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\stack\\rainwater_trapping.cpp","group":"local","local":true}

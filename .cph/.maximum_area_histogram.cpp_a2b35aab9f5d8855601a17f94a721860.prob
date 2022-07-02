@@ -1,0 +1,1 @@
+{"name":"Local: maximum_area_histogram","url":"d:\\stack\\maximum_area_histogram.cpp","tests":[{"id":1656680944701,"input":"7 \n6 2 5 4 5 1 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\stack\\maximum_area_histogram.cpp","group":"local","local":true}
